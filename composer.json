@@ -1,0 +1,13 @@
+{
+    "name": "rafa/rps",
+    "type": "project",
+    "description": "My game",
+    "autoload": {
+        "psr-4": {
+            "RPS\\": "src/"
+        },
+        "files": [
+            "src/Helpers/index.php"
+        ]
+    }
+}
